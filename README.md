@@ -1,1 +1,5 @@
-The "Refund Mate" website, available at refund-mate.vercel.app, utilizes core web technologies like HTML, CSS, along with Bootstrap for responsive design, and JavaScript to add interactivity. The site likely provides a streamlined, user-friendly interface to handle refund-related processes, leveraging Bootstrap for layout flexibility and JS for dynamic features. The design ensures accessibility across devices, while maintaining a clean and efficient user experience.
+### Refund Mate
+
+Refund Mate is a web-based platform that helps streamline the refund process. It is built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript** to ensure a responsive and user-friendly interface. The site leverages Bootstrap for layout and styling, and JavaScript for dynamic functionalities, making it both accessible and efficient across various devices.
+
+You can check out the live website here: [Refund Mate](https://refund-mate.vercel.app/)
