@@ -1,0 +1,1695 @@
+@media (max-width: 1200px) {
+    section.home-banner-main h1 {
+        font-size: 5.9rem;
+        line-height: 110px;
+    }
+
+    section.What-is-the-ERC-section .What-is-the-ERC-content p {
+        font-size: 1.475rem;
+    }
+
+    .business-ERC-section .business-ERC-time-content h1 {
+        font-size: 25px;
+    }
+
+    .business-ERC-section {
+        padding: 10px 0 90px 0;
+    }
+
+    section.Innovation-Refunds-Main h1 {
+        font-size: 74px;
+    }
+
+    section.faster-way-to-life-section .faster-way-heading h1 {
+        font-size: 64px;
+    }
+
+    section.who-we-are-banner-main h1 {
+        font-size: 37px;
+        line-height: 47px;
+    }
+
+    section.refer-business-form.contacts,
+    section.who-we-are-banner-main {
+        padding: 20px 0 20px;
+    }
+
+    section.who-we-are-banner-main p {
+        font-size: 18px;
+    }
+
+    section.team h1 {
+        font-size: 27px;
+    }
+
+    section.team h6 {
+        font-size: 18px;
+    }
+
+    section.team p {
+        font-size: 20px;
+    }
+
+    section.eligible-erc {
+        padding: 90px 0;
+    }
+
+    section.mrc-overview p {
+        font-size: 18px;
+    }
+
+    section.mrc-explained h1 {
+        font-size: 35px;
+    }
+
+    section.mrc-explained p {
+        font-size: 18px;
+    }
+
+    section.underutilized h1 {
+        font-size: 35px;
+    }
+
+    section.eligible-erc {
+        padding: 112px 0;
+    }
+
+    section.underutilized {
+        padding: 20px 0;
+    }
+
+    section.eligible-erc .content-eligible {
+        padding: 30px 0;
+    }
+
+    section.eligible-erc h1 {
+        font-size: 35px;
+        padding: 5px 0;
+    }
+
+    section.eligible-erc .content-eligible p {
+        padding: 20px 0;
+    }
+
+    section.refer-business-form form {
+        padding: 60px 20px 38px 20px;
+    }
+
+    section.refer-business-form.contacts {
+        padding: 60px 0 60px;
+    }
+
+    .contact-content p {
+        font-size: 19px;
+        padding: 10px 0 32px;
+    }
+
+    section.refer-business-form.contacts,
+    section.who-we-are-banner-main {
+        padding: 50px 0 20px;
+    }
+
+    section.Privacy-Policy-content-section .Privacy-Policy-topic-one h1 {
+        font-size: 24px;
+    }
+
+    section.Privacy-Policy-section .Privacy-Policy-div h1 {
+        font-size: 35px;
+    }
+
+    section.home-banner-main {
+        padding: 78px 0;
+    }
+    .business-ERC-section .business-ERC-heading p {
+        font-size: 27px;
+        line-height: 55px;
+    }
+    .business-ERC-section .business-ERC-heading {
+        padding: 66px 0;
+    }
+    .business-ERC-section .background-banner-1 {
+        padding: 45px 95px 45px 40px;
+    }
+    .business-ERC-section .business-ERC-time-content h6 {
+        font-size: 13px;
+    }
+    .business-ERC-time-content h4 {
+        font-size: 14px;
+        padding: 3px 0;
+        line-height: 20px;
+    }
+    .business-ERC-section .business-ERC-time-content h6 {
+        font-size: 16px;
+        padding: 6px 0;
+    }
+    .business-ERC-section .background-banner-3 {
+        padding: 46px 169px 96px 40px;
+    }
+    .business-ERC-time-content {
+        margin: 15px 0;
+    }
+    section.Innovation-Refunds-Main {
+        padding: 25px 0 50px;
+    }
+    .video-wrap-main {
+        padding: 80px 0;
+    }
+    section.faster-way-to-life-section .faster-way-heading h1 {
+        margin-bottom: 27px;
+        line-height: 28px;
+    }
+    section.faster-way-to-life-section .faster-way-heading p {
+        margin-bottom: 41px;
+        font-size: 24px;
+    }
+    section.faster-way-to-life-section .faster-way-btn a {
+        padding: 12px 30px;
+    }
+    .refund-div-content h1 {
+        line-height: 64px;
+        font-weight: 700;
+        margin-bottom: 3px;
+        font-size: 82px;
+    }
+    .refund-div-content p {
+        font-size: 23px;
+        line-height: 36px;
+        margin-bottom: 48px;
+        font-size: 34px;
+    }
+    .refund-section {
+        padding: 84px 0;
+    }
+    footer {
+        padding: 58px 0 30px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    section.eligible-erc h1 {
+        font-size: 20px;
+        padding: 15px 0;
+    }
+
+    section.eligible-erc p {
+        font-size: 18px;
+    }
+
+    nav.menu-links a {
+        font-size: 14px;
+    }
+
+    nav.menu-links a:nth-child(6) {
+        padding: 8px 5px;
+        margin-right: 10px;
+    }
+
+    nav.menu-links a:last-child {
+        padding: 8px 8px;
+    }
+
+    section.home-banner-main h1 {
+        font-size: 5.0rem;
+        line-height: 100px;
+    }
+
+    section.home-banner-main .claim-here-btn a {
+        font-size: 18px;
+    }
+
+    section.home-banner-main {
+        padding: 80px 0 50px 0;
+    }
+
+    section.What-is-the-ERC-section .What-is-the-ERC-content h6 {
+        font-size: 15px;
+    }
+
+    section.What-is-the-ERC-section .What-is-the-ERC-content h2 {
+        margin-top: 10px;
+        font-size: 2.0rem;
+    }
+
+    section.What-is-the-ERC-section .What-is-the-ERC-content p {
+        font-size: 1.2rem;
+    }
+
+    section.What-is-the-ERC-section .What-is-the-ERC-content a {
+        font-size: 1.20rem;
+        padding: 8px 16px;
+    }
+
+    section.your-business-a-good-company h3 {
+        font-size: 17px;
+    }
+
+    section.your-business-a-good-company h1 {
+        font-size: 35px;
+        line-height: 1.7;
+        margin-bottom: 20px;
+    }
+
+    section.how-it-work-main h3 {
+        font-size: 17px;
+    }
+
+    section.how-it-work-main h1 {
+        font-size: 2rem;
+    }
+
+    .business-ERC-section .business-ERC-heading p {
+        font-size: 24px;
+        line-height: 48px;
+    }
+
+    .business-ERC-section .business-ERC-time-content h1 {
+        font-size: 18px;
+    }
+
+    .business-ERC-time-content h4 i {
+        padding-right: 5px;
+    }
+
+    .business-ERC-section .business-ERC-time-content h6 {
+        margin-bottom: 0px;
+        font-size: 15px;
+    }
+
+    section.Innovation-Refunds-Main h1 {
+        font-size: 45px;
+    }
+
+    section.faster-way-to-life-section .faster-way-heading h1 {
+        font-size: 47px;
+    }
+
+    section.faster-way-to-life-section .faster-way-heading p {
+        font-size: 22px;
+    }
+
+    section.faster-way-to-life-section {
+        padding: 45px 0 50px;
+    }
+
+    section.faster-way-to-life-section .faster-way-btn a {
+        font-size: 1.2rem;
+    }
+
+    .refund-div-content h1 {
+        font-size: 60px;
+    }
+
+    .refund-div-content p {
+        font-size: 25px;
+    }
+
+    .refund-div-content {
+        padding-bottom: 5px;
+    }
+
+    .refund-div-content a {
+        font-size: 1.2rem;
+    }
+
+    section.who-we-are-banner-main h1 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    section.great-businesses h1 {
+        font-size: 28px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+
+    section.great-businesses p {
+        font-size: 16px;
+    }
+
+    section.brand-slides .companies-main-wrap img {
+        max-height: 40px;
+    }
+
+    section.team h1 {
+        font-size: 22px;
+    }
+
+    section.team p {
+        font-size: 18px;
+    }
+
+    section.eligible-receive h1 {
+        font-size: 35px;
+        width: 94%;
+    }
+
+    section.eligible-receive p {
+        font-size: 18px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    section.eligible-receive .receive-form h1 {
+        margin-bottom: 6px !important;
+        font-size: 20px;
+        line-height: 23px;
+    }
+
+    section.eligible-receive .receive-form .rec-form {
+        padding: 15px 50px;
+    }
+
+    section.eligible-receive .receive-form .rec-form input {
+        padding: 8px 15px;
+    }
+
+    section.eligible-receive .receive-form .rec-form h2 {
+        font-size: 50px;
+        padding: 10px 0;
+    }
+
+    section.eligible-receive .receive-form .rec-form button {
+        padding: 7px 31px;
+        font-size: 18px;
+    }
+
+    section.eligible-receive {
+        padding: 30px 0;
+    }
+
+    section.check-what {
+        padding: 30px 0;
+    }
+
+    section.check-what h1 {
+        font-size: 26px;
+    }
+
+    section.check-what img {
+        margin: 15px 0;
+    }
+
+    section.do-file h1 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    section.do-file p {
+        font-size: 18px;
+        padding: 10px 0;
+    }
+
+    section.do-file .talk-btn {
+        font-size: 18px;
+        margin: 10px 0 !important;
+        padding: 6px 20px;
+    }
+
+    section.innovation {
+        padding: 30px 0;
+    }
+
+    section.innovation h1 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+
+    section.innovation p {
+        font-size: 16px;
+        padding: 10px 0;
+    }
+
+    section.innovation .file-head {
+        padding: 20px 0 0 0;
+    }
+
+    section.innovation .estimate {
+        padding: 20px 0;
+    }
+
+    section.innovation .estimate a {
+        font-size: 14px;
+        padding: 8px 19px;
+    }
+
+    footer {
+        padding: 30px 0 30px;
+    }
+
+    section.mrc-overview {
+        padding: 20px 0;
+    }
+
+    section.mrc-explained {
+        padding: 20px 0;
+    }
+
+    ul.companies-main-wrap li img {
+        width: 180px !important;
+    }
+
+    .contact-content p {
+        font-size: 17px;
+        padding: 10px 0 32px;
+    }
+
+    .contact-content h3 {
+        font-size: 25px;
+        padding-top: 20px;
+    }
+
+    .section-title h1 {
+        padding-bottom: 36px;
+        font-size: 25px;
+    }
+
+    .section-title h3 {
+        font-size: 17px;
+    }
+
+    section.refer-business-form form {
+        padding: 10px 20px 20px 20px;
+    }
+    .business-ERC-section .background-banner-2 {
+        padding: 7px 59px 44px 39px;
+    }
+    .business-ERC-section .background-banner-3 {
+        padding: 23px 169px 77px 40px;
+    }
+    section.Innovation-Refunds-Main {
+        padding: 22px 0 36px;
+    }
+    .business-ERC-section .background-banner-1 {
+        padding: 78px 95px 45px 40px;
+    }
+    .refund-div-content p {
+        font-size: 23px;
+        line-height: 32px;
+        font-size: 34px;
+    }
+    .refund-section {
+        padding: 75px 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .web-header {
+        display: none;
+    }
+
+    .mobile-menu {
+        display: block;
+    }
+
+    .sidenav {
+        padding-top: 50px;
+    }
+
+    .sidenav a {
+        font-size: 21px;
+        color: white;
+        text-align: center;
+        padding: 10px 0px 8px 0px;
+    }
+
+    section.home-banner-main h1 {
+        font-size: 44px;
+        line-height: 65px;
+    }
+
+    section.home-banner-main p {
+        font-size: 30px;
+    }
+
+    section.home-banner-main p span {
+        font-size: 26px;
+    }
+
+    section.What-is-the-ERC-section .What-is-the-ERC-content h2 {
+        font-size: 24px;
+    }
+
+    section.What-is-the-ERC-section .What-is-the-ERC-content h2 i {
+        font-size: 25px;
+    }
+
+    section.What-is-the-ERC-section .What-is-the-ERC-content p {
+        font-size: 17px;
+    }
+
+    section.What-is-the-ERC-section .What-is-the-ERC-content a {
+        font-size: 16px;
+        padding: 8px 16px;
+    }
+
+    section.your-business-a-good-company {
+        padding: 60px 0;
+    }
+
+    section.your-business-a-good-company h1 {
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+
+    ul.companies-main-wrap li img {
+        width: 150px !important;
+    }
+
+    section.how-it-work-main h1 {
+        font-size: 28px;
+    }
+
+    section.how-it-work-main h1 i {
+        font-size: 25px;
+    }
+
+    .business-ERC-section .business-ERC-heading p {
+        font-size: 19px;
+        line-height: 42px;
+    }
+
+    .business-ERC-section .business-ERC-time-content h1 {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .business-ERC-section .business-ERC-time-content h6 {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+
+    section.Innovation-Refunds-Main h1::before {
+        display: none;
+    }
+
+    section.Innovation-Refunds-Main h1::after {
+        display: none;
+    }
+
+    section.Innovation-Refunds-Main {
+        padding: 20px 0 20px;
+    }
+
+    section.Innovation-Refunds-Main h1 {
+        font-size: 40px;
+    }
+
+    .video-wrap-main {
+        padding: 50px 0;
+    }
+
+    section.faster-way-to-life-section .faster-way-heading h1 {
+        font-size: 35px;
+    }
+
+    section.faster-way-to-life-section .faster-way-heading p {
+        font-size: 20px;
+    }
+
+    section.faster-way-to-life-section .faster-way-image-div-one {
+        padding: 25px 0;
+    }
+
+    section.faster-way-to-life-section .faster-way-btn a {
+        font-size: 16px;
+        padding: 11px 21px;
+        margin: 22px 0px 0 0;
+    }
+
+    .refund-div-content h1 {
+        font-size: 47px;
+    }
+
+    .refund-div-content p {
+        font-size: 18px;
+    }
+
+    .refund-div-content a {
+        font-size: 16px;
+        padding: 10px 40px;
+    }
+
+    .refund-section {
+        padding: 43px 0;
+    }
+
+    footer .footer-menu-links h4 {
+        margin-top: 35px;
+        margin-bottom: 5px;
+    }
+
+    footer .footer-logo h4 {
+        margin-top: 30px;
+    }
+
+    section.who-we-are-banner-main h1 {
+        font-size: 21px;
+        line-height: 15px;
+    }
+
+    section.refer-business-form.contacts,
+    section.who-we-are-banner-main {
+        padding: 60px 0 35px;
+    }
+
+    section.who-we-are-banner-main p {
+        font-size: 16px;
+    }
+
+    section.culture {
+        padding: 40px 0 !important;
+    }
+
+    section.culture .culture-items p {
+        font-size: 16px;
+    }
+
+    section.culture .round-head h4 {
+        top: -3%;
+    }
+
+    section.culture p {
+        font-size: 16px;
+    }
+
+    section.leadership .leaders h2 {
+        font-size: 14px;
+    }
+
+    section.leadership .leaders h3 {
+        font-size: 11px;
+    }
+
+    section.great-businesses h1 {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    section.brand-slides {
+        padding: 25px 0;
+    }
+
+    section.great-businesses {
+        padding: 30px 0 !important;
+    }
+
+    section.team h1 {
+        font-size: 20px;
+    }
+
+    footer .footer-logo img {
+        width: 200px;
+    }
+
+    footer .footer-logo h4 {
+        font-size: 22px;
+    }
+
+    footer .footer-menu-links ul li {
+        padding: 7px 0;
+    }
+
+    section.who-we-are-banner-main h3 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    section.mrc-overview p {
+        font-size: 16px;
+    }
+
+    section.mrc-explained h1 {
+        font-size: 30px;
+        padding: 10px 0 20px 0;
+    }
+
+    section.mrc-explained p {
+        font-size: 16px;
+    }
+
+    section.underutilized h1 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    section.eligible-erc p {
+        font-size: 16px;
+    }
+
+    section.eligible-erc .content-eligible .talk-btn {
+        font-size: 16px;
+        margin: 10px 0 !important;
+        padding: 8px 20px;
+    }
+
+    section.eligible-erc {
+        padding: 112px 0 50px 0;
+    }
+
+    section.eligible-receive h1 {
+        font-size: 28px;
+        width: 100%;
+    }
+
+    section.eligible-receive .receive-form .rec-form {
+        padding: 15px 25px;
+    }
+
+    section.eligible-receive .receive-form .rec-form label {
+        padding: 5px 0;
+        font-size: 16px;
+    }
+
+    section.eligible-receive .receive-form .rec-form h2 {
+        font-size: 40px;
+    }
+
+    section.eligible-receive .receive-form .rec-form input {
+        padding: 6px 11px;
+    }
+
+    section.eligible-receive .receive-form .rec-form button {
+        padding: 6px 31px;
+        font-size: 16px;
+    }
+
+    section.check-what h1 {
+        font-size: 20px;
+    }
+
+    section.check-what p {
+        font-size: 20px;
+    }
+
+    section.do-file h2 {
+        font-size: 21px;
+        font-weight: 600;
+    }
+
+    section.do-file p {
+        font-size: 16px;
+    }
+
+    section.do-file {
+        padding: 20px 0;
+    }
+
+    section.our-customer-review {
+        margin: 40px 0 0;
+    }
+
+    section.our-customer-review h2 {
+        margin-top: 0px;
+        font-size: 40px;
+        padding: 30px 0 30px;
+    }
+
+    section.faqs-section .accordion-button:not(.collapsed) {
+        font-size: 18px;
+    }
+
+    section.faqs-section .accordion-button {
+        font-weight: 600;
+        font-size: 17px;
+    }
+
+    section.pyroll-sec h1 {
+        font-size: 30px;
+        padding: 10px 0;
+    }
+
+    section.pyroll-sec h2 {
+        font-size: 16px;
+        padding: 20px 0;
+    }
+
+    section.pre-vendor h1 {
+        font-size: 30px;
+    }
+
+    section.pyroll-sec {
+        padding: 50px 0 50px 0;
+    }
+
+    section.pre-vendor form.vend-form h2 {
+        font-size: 22px;
+    }
+
+    section.pre-vendor form.vend-form h3 {
+        font-size: 20px;
+        margin-bottom: 21px;
+    }
+    section.What-is-the-ERC-section {
+        padding: 45px 0px;
+        background-size: 67% 94%;
+        background-position: 73% 99%;
+        margin: 0px 0;
+    }
+    section.What-is-the-ERC-section .What-is-the-ERC-content h2 {
+        margin-top: 6px;
+        margin-bottom: 5px;
+    }
+    section.What-is-the-ERC-section .What-is-the-ERC-content p {
+        margin-bottom: 23px;
+    }
+    section.how-it-work-main h3 {
+        margin-bottom: 11px;
+    }
+    section.how-it-work-main h1 {
+        margin-bottom: 48px;
+    }
+    section.how-it-work-main {
+        padding: 50px 0 65px;
+    }
+    .business-ERC-section .business-ERC-heading p {
+        font-size: 18px;
+        line-height: 38px;
+    }
+    .business-ERC-section .business-ERC-heading a {
+        padding: 8px 78px;
+        padding-right: 59px;
+        padding-left: 59px;
+        font-size: 21px;
+    }
+    .business-ERC-section .background-banner-1 {
+        padding: 69px 118px 47px 20px;
+    }
+    .business-ERC-time-content h4 {
+        font-size: 14px;
+        padding: 3px 0;
+        line-height: 20px;
+    }
+    .refund-div-content p {
+        margin-bottom: 34px;
+    }
+    .business-ERC-section .background-banner-2 {
+        padding: 30px 60px 52px 84px;
+    }
+    .business-ERC-section .background-banner-3 {
+        padding: 23px 169px 77px 40px;
+        margin: 23px 0;
+    }
+    .business-ERC-section {
+        padding: 10px 0 60px 0;
+    }
+    section.faster-way-to-life-section .faster-way-heading h1 {
+        margin-bottom: 20px;
+    }
+
+}
+
+@media (max-width: 576px) {
+    .inner-image {
+        margin: 50px 0;
+    }
+
+    section.home-banner-main {
+        padding: 60px 0 10px 0;
+    }
+
+    section.What-is-the-ERC-section {
+        padding: 20px 10px;
+    }
+
+    .What-is-the-ERC-content-image {
+        margin: 30px 0 0 0;
+    }
+
+    section.your-business-a-good-company h3 {
+        font-size: 15px;
+    }
+
+    section.your-business-a-good-company h1 {
+        font-size: 22px;
+        line-height: 29px;
+    }
+
+    ul.companies-main-wrap li img {
+        width: 130px !important;
+    }
+
+    section.your-business-a-good-company {
+        padding: 30px 0;
+    }
+
+    section.how-it-work-main h3 {
+        font-size: 16px;
+    }
+
+    section.how-it-work-main h1 {
+        font-size: 22px;
+        margin-bottom: 35px;
+    }
+
+    section.how-it-work-main {
+        padding: 50px 0 50px;
+    }
+
+    .business-ERC-section .business-ERC-heading {
+        padding: 30px 0;
+    }
+
+    .business-ERC-section .business-ERC-heading p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .business-ERC-section .business-ERC-heading a {
+        font-size: 18px;
+        padding: 8px 30px;
+    }
+
+    .business-ERC-section .business-ERC-time-content h1 {
+        font-size: 20px;
+        line-height: 27px;
+    }
+
+    .business-ERC-section .business-ERC-time-content h6 {
+        font-size: 20px;
+    }
+
+    .business-ERC-time-content h4 {
+        font-size: 16px;
+    }
+
+    .business-ERC-section {
+        padding: 10px 0 50px 0;
+    }
+
+    section.Innovation-Refunds-Main {
+        padding: 10px 0 10px;
+    }
+
+    .video-wrap-main {
+        padding: 30px 0;
+    }
+
+    section.faster-way-to-life-section .faster-way-heading h1 {
+        font-size: 25px;
+    }
+
+    section.faster-way-to-life-section .faster-way-heading p {
+        font-size: 16px;
+    }
+
+    .faster-way-image-div-one img {
+        width: 16%;
+    }
+
+    section.faster-way-to-life-section .faster-way-image-div-one {
+        padding: 10px 0;
+    }
+
+    section.faster-way-to-life-section {
+        padding: 45px 0 36px;
+    }
+
+    .refund-div-content h1 {
+        font-size: 30px;
+        margin-bottom: 0px;
+    }
+
+    .refund-div-content p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .refund-div-content a {
+        font-size: 16px;
+        padding: 8px 30px;
+    }
+
+    .refund-section {
+        padding: 25px 0;
+    }
+
+    footer {
+        padding: 10px 0 15px;
+    }
+
+    footer .footer-logo img {
+        width: 200px;
+    }
+
+    footer .footer-menu-links ul li {
+        padding: 5px 0;
+    }
+
+    footer .footer-marketing-logo img {
+        width: 90px;
+        margin-right: 10px;
+    }
+
+    section.refer-business-form.contacts,
+    section.who-we-are-banner-main {
+        padding: 50px 20px 30px 20px;
+    }
+
+    section.who-we-are-banner-main h3 {
+        font-size: 14px;
+    }
+
+    .inner-image {
+        margin: 25px 0 0 0;
+    }
+
+    section.culture {
+        padding: 20px 0 !important;
+    }
+
+    section.culture {
+        padding: 20px 25px !important;
+    }
+
+    section.culture h6 {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+    section.culture h1 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    section.culture .round-head h4 {
+        top: -10%;
+        font-size: 16px;
+    }
+
+    section.leadership h1 {
+        font-size: 30px;
+    }
+
+    section.leadership {
+        padding: 50px 50px;
+    }
+
+    section.leadership .leaders h2 {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    section.great-businesses {
+        padding: 30px 30px !important;
+    }
+
+    section.great-businesses h6 {
+        font-size: 14px;
+        padding: 21px 0;
+    }
+
+    section.great-businesses h1 {
+        font-size: 15px;
+    }
+
+    section.team {
+        padding: 30px 30px;
+    }
+
+    section.team h6 {
+        margin-bottom: 20px;
+    }
+
+    section.team h1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    section.team img {
+        margin: 39px 0;
+    }
+
+    section.team p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .mobile-image img {
+        width: 50%;
+    }
+
+    section.mrc-overview {
+        padding: 20px 20px;
+    }
+
+    section.mrc-explained {
+        padding: 20px 20px;
+    }
+
+    section.mrc-explained .innner-ex img {
+        margin-bottom: 10px;
+        width: 20%;
+    }
+
+    section.mrc-explained .innner-ex h6 {
+        font-size: 16px;
+    }
+
+    section.underutilized {
+        padding: 7px 0;
+    }
+
+    section.underutilized h1 {
+        font-size: 19px;
+        padding: 10px 0;
+    }
+
+    section.eligible-erc {
+        padding: 50px 20px 50px 20px;
+    }
+
+    section.eligible-erc .content-eligible p {
+        padding: 7px 0;
+    }
+
+    section.eligible-erc .content-eligible {
+        padding: 20px 0 50px 0;
+    }
+
+    section.eligible-erc h1 {
+        font-size: 25px;
+        padding: 50px 0 15px 0;
+    }
+
+    section.eligible-erc .eligible-req p {
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    section.eligible-erc .eligible-req .start-btn {
+        font-size: 16px;
+        margin: 7px auto 20px auto !important;
+        padding: 6px 13px;
+    }
+
+    section.eligible-receive {
+        padding: 30px 16px;
+    }
+
+    section.eligible-receive h1 i {
+        padding-right: 3px;
+    }
+
+    section.eligible-receive h1 {
+        font-size: 16px;
+        padding: 5px 0 20px 0;
+    }
+
+    section.eligible-receive p {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    section.eligible-receive .receive-form {
+        margin: 20px 0;
+    }
+
+    section.eligible-receive .receive-form h1 {
+        margin-bottom: 6px !important;
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    section.eligible-receive .receive-form .rec-form label {
+        padding: 5px 0;
+        font-size: 14px;
+        margin: 0 0 10px 0;
+    }
+
+    section.eligible-receive .receive-form .rec-form h2 {
+        font-size: 30px;
+        padding: 0 0 20px 0;
+    }
+
+    section.eligible-receive .receive-form .rec-form button {
+        padding: 6px 22px;
+        font-size: 14px;
+    }
+
+    section.check-what {
+        padding: 30px 20px;
+    }
+
+    section.check-what h1 {
+        font-size: 17px;
+    }
+
+    section.check-what p {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    section.do-file {
+        padding: 20px 20px;
+    }
+
+    section.do-file h1 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    section.do-file p {
+        font-size: 14px;
+    }
+
+    section.do-file h2 {
+        padding: 0 0 20px 0;
+    }
+
+    section.do-file .talk-btn {
+        font-size: 15px;
+    }
+
+    section.innovation {
+        padding: 30px 20px;
+    }
+
+    section.innovation h1 {
+        font-size: 18px;
+        margin-bottom: 3px;
+    }
+
+    section.innovation .inner-content img {
+        height: 50px;
+    }
+
+    section.innovation .inner-content h5 {
+        font-size: 15px;
+    }
+
+    section.innovation .inner-content h6 {
+        font-size: 14px;
+    }
+
+    section.innovation .estimate {
+        padding: 20px 0;
+        width: 100%;
+    }
+
+    section.mrc-explained .innner-ex {
+        text-align: center;
+    }
+
+    section.eligible-erc .content-eligible .talk-btn {
+        font-size: 14px;
+    }
+
+    section.eligible-erc h1 {
+        font-size: 20px;
+    }
+
+    section.eligible-erc .eligible-req p {
+        width: 100%;
+    }
+
+    section.innovation .inner-content {
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    section.innovation .inner-content h5 {
+        font-size: 18px;
+        font-weight: 700;
+    }
+
+    section.who-we-are-banner-main h1 {
+        font-size: 21px;
+        line-height: 15px;
+        padding: 10px 0 15px 0px;
+    }
+
+    section.our-customer-review h2 {
+        font-size: 25px;
+        padding: 30px 0 20px;
+    }
+
+    section.our-customer-review h6 {
+        font-size: 16px;
+    }
+
+    section.our-customer-review {
+        padding: 20px;
+    }
+
+    section.Innovation-Refunds-Main.testimonials {
+        padding: 20px;
+    }
+
+    section.Innovation-Refunds-Main h1 {
+        font-size: 30px;
+    }
+
+    section.Innovation-Refunds-Main h6 {
+        padding: 10px 0;
+        font-size: 20px;
+    }
+
+    section.Innovation-Refunds-Main h6 span {
+        font-size: 16px;
+        padding: 5px 0;
+    }
+
+    section.your-business-a-good-company h3 {
+        padding: 0 20px;
+    }
+
+    section.your-business-a-good-company h1 {
+        padding: 0 20px;
+    }
+
+    section.faqs-section .accordion-button:not(.collapsed) {
+        font-size: 16px;
+    }
+
+    section.faqs-section .accordion-button {
+        font-size: 16px;
+    }
+
+    section.faqs-section .accordion-body p {
+        font-size: 15px;
+    }
+
+    section.faqs-section .accordion-item {
+        padding: 0 10px;
+        margin: 13px 0;
+    }
+
+    #faqs-accordian {
+        margin: 50px 0 50px 0;
+    }
+
+    section.faqs-section .accordion-button {
+        padding: 10px;
+    }
+
+    section.refer-business-form form label {
+        margin-top: 17px;
+    }
+
+    section.refer-business-form form button {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    section.contact-section {
+        padding: 20px 0 40px 0;
+    }
+
+    .sidenav a {
+        font-size: 18px;
+        padding: 5px 0px 5px 0px;
+    }
+
+    header .mobile-menu .contact-btns a.Enroll:hover,
+    header .mobile-menu .contact-btns a.login {
+        font-size: 16px;
+    }
+
+    section.pyroll-sec {
+        padding: 30px 20px 30px 20px;
+    }
+
+    section.pre-vendor {
+        padding: 30px 20px 30px 20px;
+    }
+
+    section.pre-vendor h1 {
+        font-size: 19px;
+    }
+
+    section.pre-vendor form.vend-form h3 {
+        font-size: 15px;
+        margin-bottom: 14px;
+    }
+
+    section.pre-vendor form.vend-form button {
+        padding: 7px 16px;
+        font-size: 14px;
+    }
+
+    section.Privacy-Policy-section {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+
+    section.Privacy-Policy-content-section {
+        padding: 30px;
+    }
+
+    section.Privacy-Policy-content-section .Privacy-Policy-topic-one h1 {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    section.Privacy-Policy-content-section .Privacy-Policy-topic-one ul li {
+        margin-bottom: 14px;
+    }
+
+    section.Terms-of-Service-section .Terms-of-Service-banner h1 {
+        font-size: 30px;
+    }
+    section.Terms-of-Service-section {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    section.Terms-of-Service-content {
+        padding: 20px;
+    }
+    section.Terms-of-Service-content .Terms-of-Service-topic-one h3 {
+        font-size: 18px;
+    }
+    section.home-banner-main h1 {
+        font-size: 27px;
+        line-height: 50px;
+    }
+    section.home-banner-main .claim-here-btn a {
+       padding: 10px 18px;
+       font-size: 16px;
+    }
+    section.home-banner-main .claim-here-btn a {
+        font-size: 16px;
+    }
+    section.home-banner-main .inner-image img {
+        width: 87%;
+    }
+    section.What-is-the-ERC-section {
+        background-size: 95% 47%;
+        background-position: 52% 2%;
+        margin: 0px 0;
+    }
+    .business-ERC-section .background-banner-2 {
+        padding: 22px 38px 71px 39px;
+        background-image: none;
+        background: #fcd3a5;
+        margin: 0 12px;
+        border-radius: 30px 30px 30px 147px;
+    }
+    .business-ERC-section .business-ERC-time-content h1 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .business-ERC-section .business-ERC-time-content h6 {
+        font-size: 16px;
+    }
+    .business-ERC-time-content h4 {
+        font-size: 13px;
+    }
+    .business-ERC-section .background-banner-1 {
+        padding: 44px 44px 39px 44px;
+        background-image: none;
+        background: bisque;
+        border-radius: 30px;
+        margin: 0 11px;
+    }
+    .business-ERC-section .background-banner-3 {
+        padding: 23px 33px 31px 33px;
+        margin: 21px 14px;
+        background-image: none;
+        background: bisque;
+        border-radius: 30px 30px 164px 30px;
+    }
+    .faster-way-heading {
+        margin: 0 20px;
+    }
+
+}
+
+@media (max-width: 375px) {
+    section.home-banner-main h1 {
+        font-size: 22px;
+        line-height: 50px;
+    }
+
+    section.home-banner-main p {
+        font-size: 28px;
+    }
+
+    section.home-banner-main .claim-here-btn a {
+        font-size: 16px;
+        padding: 10px 30px;
+    }
+
+    section.What-is-the-ERC-section .What-is-the-ERC-content h2 {
+        font-size: 23px;
+    }
+
+    section.your-business-a-good-company h1 {
+        font-size: 19px;
+        line-height: 29px;
+    }
+
+    .business-ERC-section .business-ERC-time-content h1 {
+        font-size: 17px;
+        line-height: 24px;
+    }
+
+    .business-ERC-section .business-ERC-time-content h6 {
+        font-size: 17px;
+    }
+
+    section.Innovation-Refunds-Main h1 {
+        font-size: 26px;
+    }
+
+    section.faster-way-to-life-section .faster-way-heading h1 {
+        font-size: 23px;
+        margin-bottom: 17px;
+    }
+
+    footer .footer-logo h4 {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+
+    section.culture h1 {
+        font-size: 18px;
+    }
+
+    section.culture .round-head h4 {
+        top: -5%;
+        font-size: 14px;
+    }
+
+    section.leadership h1 {
+        font-size: 22px;
+    }
+
+    section.leadership {
+        padding: 30px 30px;
+    }
+
+    section.great-businesses {
+        padding: 20px !important;
+    }
+
+    section.great-businesses h1 {
+        font-size: 17px;
+    }
+
+    section.team {
+        padding: 20px;
+    }
+
+    section.team h1 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    section.team h6 {
+        font-size: 15px;
+    }
+
+    footer .footer-logo img {
+        width: 140px;
+    }
+
+    footer .footer-logo h4 {
+        font-size: 18px;
+    }
+
+    section.who-we-are-banner-main h1 {
+        font-size: 17px;
+        line-height: 20px;
+        padding: 10px 0 15px 0;
+    }
+
+    section.refer-business-form.contacts,
+    section.who-we-are-banner-main {
+        padding: 35px 10px 30px 10px;
+    }
+
+    section.mrc-explained h1 {
+        font-size: 20px;
+        padding: 10px 0 10px 0;
+    }
+
+    section.eligible-receive h1 {
+        line-height: 24px;
+    }
+
+    section.eligible-receive .receive-form .rec-form {
+        padding: 15px 5px;
+    }
+
+    section.your-business-a-good-company h1 {
+        font-size: 16px;
+    }
+
+    section.our-customer-review h2 {
+        font-size: 23px;
+        padding: 15px 0 10px;
+    }
+
+    section.our-customer-review p {
+        font-size: 15px;
+    }
+
+    .section-title h1 {
+        padding-bottom: 22px;
+        font-size: 18px;
+    }
+
+    section.refer-business-form form {
+        padding: 10px 15px 20px 15px;
+    }
+
+    .contact-content h3 {
+        font-size: 18px;
+        padding-top: 5px;
+    }
+
+    section.pre-vendor h1 {
+        font-size: 14px;
+    }
+
+    section.pre-vendor form.vend-form {
+        padding: 20px 10px;
+    }
+
+    section.pyroll-sec {
+        padding: 20px 20px 20px 20px;
+    }
+
+    section.pre-vendor {
+        padding: 20px 20px 30px 20px;
+    }
+    section.What-is-the-ERC-section {
+        background-size: 95% 52%;
+        background-position: 52% 2%;
+    }
+    .business-ERC-section .background-banner-3 {
+        border-radius: 30px 30px 139px 30px;
+    }
+    .business-ERC-section .background-banner-1 {
+        padding: 27px 44px 35px 44px;
+    }
+    .business-ERC-section .background-banner-2 {
+        padding: 22px 38px 50px 39px;
+        margin: 24px 12px;
+        border-radius: 30px 30px 30px 30px;
+    }
+    section.faster-way-to-life-section .faster-way-btn a {
+        padding: 8px 15px;
+    }
+}
